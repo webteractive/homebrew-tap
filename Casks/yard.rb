@@ -1,7 +1,7 @@
 # Written by scripts/release.sh in webteractive/yard: change packaging/yard.rb.tmpl there.
 cask "yard" do
-  version "0.1.1"
-  sha256 "a1d127f0d662d4dcf01babe5669c930ad976ede9b08c45f212179c21efc26813"
+  version "0.1.2"
+  sha256 "a96e862f57748369816194ed36960830c76bb382a3c320950f016f504473e43d"
 
   url "https://github.com/webteractive/yard/releases/download/v#{version}/Yard-#{version}-arm64.dmg"
   name "Yard"
